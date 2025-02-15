@@ -10,6 +10,7 @@ Spending patterns: Find times when customers tend to spend the most to target ad
 Price range grouping: Simplify product price ranges for marketing purposes.
 Product popularity: Determine which product departments are ordered the most.
 Customer behaviors: Understand ordering habits based on factors like loyalty, region, age, family status, etc.
+
 Data:
 Orders data
 Products data
@@ -22,10 +23,12 @@ Pandas for data manipulation
 NumPy for mathematical operations
 Seaborn/Matplotlib for data visualization
 SciPy for statistical analysis
+
 Folders Structure:
 Project Management: Includes project brief and data dictionary.
 Data: Contains original and cleaned data files.
 Scripts: Jupyter notebooks for the analysis code.
 Analysis: Visualizations to support findings.
+
 Sent to Client: Final report in Excel format.
 The analysis aimed to provide actionable insights into customer profiles, order patterns, product preferences, and marketing strategies based on these findings.
